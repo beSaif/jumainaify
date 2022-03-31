@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "395900254588",
+    "project_id": "jumainaify",
+    "storage_bucket": "jumainaify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395900254588:android:b6d1b5a7a09e3fb6ca0cf9",
+        "android_client_info": {
+          "package_name": "com.example.jumainaify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395900254588-2omtcruo8hcc2g9uat9qq1q89cet3o5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk9UC3vRcijL2IhEss9fCC2bHF8SPDmKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395900254588-2omtcruo8hcc2g9uat9qq1q89cet3o5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
